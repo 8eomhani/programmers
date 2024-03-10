@@ -1,6 +1,6 @@
 # [level 1] 특정 옵션이 포함된 자동차 리스트 구하기 - 157343 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157343#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157343) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2024년 03월 10일 23:04:08
+2024년 03월 10일 23:10:15
 
 ### 문제 설명
 
